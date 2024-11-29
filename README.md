@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @CRG714 (You can call me Charlie)
+- 👀 I’m interested in porting games (LEGALLY) from pc and other consles onto the 3DS and the PSVITA. And also the Homebrew scene
+- 🌱 I’m currently learning how to port games
+- 📫 How to reach me - You can reach me on instagram @eyeballeater117
+- 😄 Pronouns: He/Him
+- 🎮 My current project is trying to port the game "Cult Of The Lamb" onto the PSVITA
